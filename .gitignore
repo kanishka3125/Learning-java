@@ -1,0 +1,12 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java compiled files
+*.class
+
+# Build output
+out/
+
+# Custom bytecode folder
+src/bytecode/
